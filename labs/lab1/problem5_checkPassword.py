@@ -1,7 +1,14 @@
 import getpass 
 
 '''
-Here I have used getpass to make sure password is not visible 
+Problem Statement
+ Create a program that asks the user for a password. 
+ If the password is "secret", print "Access granted". 
+ Otherwise, print "Access denied" and keep asking until 
+ the correct password is entered.
+
+ 
+Here I have used "getpass" to make sure password is not visible 
 on the console when user starts typing ! haha secret
 '''
 
